@@ -1,10 +1,10 @@
 # matrix
-a scrapy crawler demo, for crawl taboo items.
+a scrapy crawler demo, for crawl taboo item, just for fun.
 
 从淘宝和天猫上爬取一部分测试数据，支持自动登录，自动设别天猫和淘宝模板，递归的爬取网页并将数据解析到本地日志文件。
 
 
-###### 爬虫流程和需要解决的问题：
+#### 爬虫流程和需要解决的问题：
 
 * 自动登录问题：许多社交网站（如微博），电商网站（如淘宝天猫）都需要登录，解决Cookie的自动更新；
 
