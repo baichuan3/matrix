@@ -1,0 +1,3 @@
+dependency library:
+1. scrapy, crawl framework
+2. chardect, html decode adaptive library
