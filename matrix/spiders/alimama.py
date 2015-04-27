@@ -27,7 +27,7 @@ class TaobaoSpider(CrawlSpider):
     
     max_page_count = 3
     
-    allowed_domains = ['taobao.com', 'tmall.com', 'alimama.com', 'icultivator.com']
+    allowed_domains = ['taobao.com', 'tmall.com']
     start_urls = ['http://u.alimama.com/union/spread/selfservice/merchandisePromotion.htm?cat=&discountId=&pidvid=&_fmu.a._0.t=1&_fmu.a._0.pe=40&_fmu.a._0.l=&_fmu.a._0.so=_totalnum&c=&rewrite=&cat=&mid=&searchType=0&q=%BA%A3%B5%BA&_fmu.a._0.u=&_fmu.a._0.s=&_fmu.a._0.sta=&_fmu.a._0.end=&_fmu.a._0.st=&_fmu.a._0.en=&_fmu.a._0.star=0&loc=#']
     
     start_querys = [u'海南']
