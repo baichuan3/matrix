@@ -1,5 +1,5 @@
 # matrix
-a scrapy crawler demo, for crawl tabao item, just for fun.
+a scrapy crawler demo, for crawl taobao item, just for fun.
 
 从淘宝和天猫上爬取一部分测试数据，支持自动登录，自动设别天猫和淘宝模板，递归的爬取网页并将数据解析到本地日志文件。
 
